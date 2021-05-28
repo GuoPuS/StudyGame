@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0F6927B9-460A-B47D-461A-8EA1790A9120}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TowerDefence",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
